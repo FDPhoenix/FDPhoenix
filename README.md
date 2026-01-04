@@ -4,7 +4,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 📖 About Me
 
 - 💡 A passionate **Software Developer** interested in both **Frontend** and **Backend**
 - 🔁 Comfortable working across the stack: UI, API, database, deployment
