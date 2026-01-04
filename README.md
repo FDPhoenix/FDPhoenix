@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assert/images/bg-profile.png" width="100%" />
+  <img src="./assert/images/bg-profile-v2.png" width="100%"/>
 </p>
 
 ---
