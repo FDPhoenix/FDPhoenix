@@ -15,7 +15,7 @@
 ---
 
 ## 🛠️ Tech Stack
-<div style="display:flex; gap:12px; flex-wrap:wrap;">
+<div style="display: flex; gap: 12px; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
@@ -42,22 +42,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FDPhoenix&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FDPhoenix&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
+- 💼 Tel: **0869293003**
 - 📧 Email: **khanghuynhfdp@gmail.com**
-- 💼 GitHub: [https://github.com/FDPhoenix](https://github.com/FDPhoenix)
 
 ---
 
