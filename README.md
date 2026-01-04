@@ -44,13 +44,16 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FDPhoenix&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
+  <img width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FDPhoenix&theme=algolia" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FDPhoenix&theme=tokyonight" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FDPhoenix&theme=algolia" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FDPhoenix&theme=algolia&utcOffset=8" />
 </p>
+
+
 
 ---
 
