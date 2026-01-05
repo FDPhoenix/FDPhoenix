@@ -2,19 +2,11 @@
   <img src="./assert/images/bg-profile-v2.png" width="100%"/>
 </p>
 
----
-
-## 📖 About Me
-
-- 💡 A passionate **Software Developer** interested in both **Frontend** and **Backend**
-- 🔁 Comfortable working across the stack: UI, API, database, deployment
-- 📚 Always eager to learn new tools, frameworks, and best practices
-- 🎯 Goal: Build real-world products with clean, scalable, and maintainable code
-- 🌏 Based in Vietnam
+<p> I am a newly graduated Software Engineering student seeking an Internship or Fresher Developer position, with a solid foundation in software development principles. I am highly motivated, detail-oriented, and eager to continuously learn and apply new technologies. I am comfortable working both independently and in team environments, and I am able to read and understand technical documentation such as SRS and SDS in English.</p>
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://res.cloudinary.com/dipl3mf0c/image/upload/v1767599268/computer_kjxjk3.png" alt="stat icon" height="24px"/> &nbsp;Tech Stack
 
 <span><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="margin: 5px;" /></span>
 <span><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="margin: 5px;" /></span>
@@ -29,19 +21,17 @@
 <span><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" style="margin: 5px;" /></span>
 <span><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" style="margin: 5px;" /></span>
 <span><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="margin: 5px;" /></span>
-<span><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" style="margin: 5px;" /></span>
+<span><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" style="margin: 5px;" /></span> 
 
----
 
 ## 📌 What I'm Working On
 
-- 🔨 Building personal & academic projects
-- 🧠 Improving system design & clean architecture
-- 🔐 Learning more about security, performance, and scalability
+- Building personal & academic projects
+- Improving system design & clean architecture
+- Learning more about security, performance, and scalability
 
----
 
-## <img src="./assert/icon/bar-chart.png" alt="stat icon"/> GitHub Stats
+## <img src="https://res.cloudinary.com/dipl3mf0c/image/upload/v1767598942/graph_mxchbj.png" alt="stat icon" height="24px"/> &nbsp;GitHub Stats
 
 <div align="center">
   <img width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FDPhoenix&theme=algolia" />
@@ -53,10 +43,7 @@
 </p>
 
 
-
----
-
-## 📫 Connect With Me
+## <img src="https://res.cloudinary.com/dipl3mf0c/image/upload/v1767599463/link_crikfm.png" alt="stat icon" height="20px"/> &nbsp;Connect With Me
 
 - 📞 **Tel:** (+84) 869 293 003
 - 📧 **Email:** khanghuynhfdp@gmail.com
