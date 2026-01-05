@@ -41,7 +41,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## <img src="./assert/icon/bar-chart.png" alt="stat icon"/> GitHub Stats
 
 <div align="center">
   <img width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FDPhoenix&theme=algolia" />
@@ -58,8 +58,8 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: **khanghuynhfdp@gmail.com**
-- 💼 GitHub: [https://github.com/FDPhoenix](https://github.com/FDPhoenix)
+- 📞 **Tel:** (+84) 869 293 003
+- 📧 **Email:** khanghuynhfdp@gmail.com
 
 ---
 
